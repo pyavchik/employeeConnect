@@ -1,5 +1,13 @@
-.temp
 node_modules
 config
 .eslintrc.js
 package-lock.json
+.idea
+/build
+.idea/
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
