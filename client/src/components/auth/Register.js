@@ -80,7 +80,7 @@ const Register = ( setAlert ) => {
 };
 
 Register.propTypes = {
-    setAlert: PropTypes.func.isRequired
+    setAlert:PropTypes.func.isRequired
 };
 
 export default connect(null, { setAlert })(Register);
